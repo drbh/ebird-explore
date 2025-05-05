@@ -1,0 +1,14 @@
+[project]
+name = "ebird-explore"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bs4>=0.0.2",
+    "ebird-api>=3.4.2",
+    "ipdb>=0.13.13",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+]
